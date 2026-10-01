@@ -1,0 +1,12 @@
+{
+  "name": "products-api",
+  "version": "1.0.0",
+  "description": "Express app with layered architecture and TTL caching",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
